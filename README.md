@@ -1,6 +1,5 @@
-#--------------------------------------------------------------------
+
 # Last update 2023.11.28
-#--------------------------------------------------------------------
 
 ## 1. Introduction
 This repository contains the core script for estimating the summer water storage from GNSS data.
